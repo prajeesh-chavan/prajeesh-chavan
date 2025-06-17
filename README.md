@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prajeeshchavan@gamil.com**
 
-- My Portfolio **https://prajeesh-chavan.github.io/My-Portfolio/**
+- My Portfolio **https://prajeeshchavan.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
