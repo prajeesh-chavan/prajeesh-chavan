@@ -46,31 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajeeshchavan&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeeshchavan&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajeeshchavan&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prajeeshchavan/prajeeshchavan/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
