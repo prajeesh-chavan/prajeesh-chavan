@@ -1,22 +1,71 @@
-<h1 align="center">Hi 👋, I'm Prajeesh Chavan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Prajeesh Chavan
 
-- 🌱 I’m currently learning **Java, HTML, CSS and exploring various technologies**
+**Computer Science & Engineering Student | Full Stack Developer | Tech Enthusiast**
 
-- 💬 Ask me about **C and C++**
+🚀 I'm passionate about building impactful tech solutions, exploring open-source projects, and constantly pushing my boundaries in web and mobile development. Whether it's a campus app, a blog platform, or a satellite data SaaS — I love solving real-world problems through clean, scalable code.
 
-- 📫 How to reach me **prajeeshchavan@gamil.com**
+---
 
-- My Portfolio **https://prajeeshchavan.vercel.app**
+## 🧑‍💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prajeeshchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajeeshchavan" height="30" width="40" /></a>
-<a href="https://instagram.com/prajeeshchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajeeshchavan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prajeeshchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajeeshchavan" height="30" width="40" /></a>
-</p>
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+**Frontend:**  
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajeesh-chavan&show_icons=true&locale=en&layout=compact" alt="prajeesh-chavan" /></p>
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+
+**Other Tools:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)  
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
+
+## 🌟 Featured Projects
+
+- 🔹 **Placement App** – A complete platform (Web + Mobile) for students to prepare and track college placement drives.  
+  _React Native, Node.js, Express, MongoDB_
+
+- 🔹 **EventSphere** – A MERN-based ticket booking platform with user roles, dashboards, payments & real-time updates.  
+  _Full-stack project with scalable architecture and security best practices_
+
+- 🔹 **OpenLLM Monitor** – Dashboard to monitor LLM performance. Focused on presenting complex data in a clean, intuitive way.
+
+- 🔹 **Campus Navigator** – Helping students find places and services around college easily.  
+  _Built as part of GDG on Campus initiative_
+
+- 🔹 **College Blog Platform** – A blog platform for students to share thoughts, updates, and innovations.  
+  _Built using Next.js, MongoDB, and Tailwind CSS_
+
+---
+
+## 📈 GitHub Stats
+
+![Prajeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajeeshchavan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajeeshchavan&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prajeeshchavan/)
+- 🐦 [Twitter](https://twitter.com/prajeesh_c)
+- 📬 Email: prajeeshc03@gmail.com
+- 🌐 [Portfolio (coming soon...)](#)
+
+---
+
+> “Code with consistency, lead with curiosity, and build what matters.”  
+> — Prajeesh Chavan
