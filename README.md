@@ -22,7 +22,7 @@
 - 👯 Open to collaborate on: Community-driven and social impact projects
 - 💬 Ask me about: MERN Stack, React Native, Git, and building full-stack apps
 - 🌐 Portfolio: [prajeeshchavan.vercel.app](https://prajeeshchavan.vercel.app)
-- 📫 Reach me at: **prajeeshc03@gmail.com**
+- 📫 Reach me at: **prajeeshchavan@gmail.com**
 
 ---
 
