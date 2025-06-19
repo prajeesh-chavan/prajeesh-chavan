@@ -1,71 +1,86 @@
-# 👋 Hi, I'm Prajeesh Chavan
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Prajeesh+Chavan!;Full+Stack+Developer+🚀;Tech+Enthusiast+💡;CSE+Student+📚&center=true&width=500&height=50">
+</p>
 
-**Computer Science & Engineering Student | Full Stack Developer | Tech Enthusiast**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
 
-🚀 I'm passionate about building impactful tech solutions, exploring open-source projects, and constantly pushing my boundaries in web and mobile development. Whether it's a campus app, a blog platform, or a satellite data SaaS — I love solving real-world problems through clean, scalable code.
-
----
-
-## 🧑‍💻 Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-
-**Frontend:**  
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
-
-**Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
-**Other Tools:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)  
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajeeshchavan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="mailto:prajeeshc03@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square" /></a>
+  <a href="https://twitter.com/prajeesh_c"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=flat-square" /></a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧑‍💻 About Me
 
-- 🔹 **Placement App** – A complete platform (Web + Mobile) for students to prepare and track college placement drives.  
-  _React Native, Node.js, Express, MongoDB_
-
-- 🔹 **EventSphere** – A MERN-based ticket booking platform with user roles, dashboards, payments & real-time updates.  
-  _Full-stack project with scalable architecture and security best practices_
-
-- 🔹 **OpenLLM Monitor** – Dashboard to monitor LLM performance. Focused on presenting complex data in a clean, intuitive way.
-
-- 🔹 **Campus Navigator** – Helping students find places and services around college easily.  
-  _Built as part of GDG on Campus initiative_
-
-- 🔹 **College Blog Platform** – A blog platform for students to share thoughts, updates, and innovations.  
-  _Built using Next.js, MongoDB, and Tailwind CSS_
+- 🔭 Currently working on: **OpenLLM Monitor** & **EventSphere**
+- 🌱 Exploring: **AI dashboards**, **Next.js**, and **scalable backend patterns**
+- 👯 Open to collaborate on: Community-driven and social impact projects
+- 💬 Ask me about: MERN Stack, React Native, Git, and building full-stack apps
+- 🌐 Portfolio: [prajeeshchavan.vercel.app](https://prajeeshchavan.vercel.app)
+- 📫 Reach me at: **prajeeshc03@gmail.com**
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Prajeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajeeshchavan&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,html,css,react,nextjs,nodejs,express,mongodb,tailwind,docker,figma,git,postman" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajeeshchavan&layout=compact&theme=radical)
+---
+
+## 🚀 Featured Projects
+
+| 🚧 Project | 🔎 Description | ⚙️ Stack |
+|-----------|----------------|----------|
+| **Placement App** | Mobile + Web platform for managing college placements. | React Native, Node.js, MongoDB |
+| **EventSphere** | Event booking platform with role-based dashboards. | MERN Stack |
+| **OpenLLM Monitor** | LLM monitoring dashboard with intuitive data visualization. | React, Node.js, Express |
+| **Campus Navigator** | Navigation app for students around campus with real-time data. | React Native |
+| **College Blog Platform** | Blogging platform for students built with Next.js. | Next.js, MongoDB, Tailwind CSS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajeeshchavan&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeeshchavan&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prajeeshchavan&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prajeeshchavan/prajeeshchavan/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/prajeeshchavan/)
-- 🐦 [Twitter](https://twitter.com/prajeesh_c)
-- 📬 Email: prajeeshc03@gmail.com
-- 🌐 [Portfolio (coming soon...)](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajeeshchavan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:prajeeshc03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/prajeesh_c"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://prajeeshchavan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-> “Code with consistency, lead with curiosity, and build what matters.”  
-> — Prajeesh Chavan
+<p align="center"><i>“Code with consistency, lead with curiosity, and build what matters.”</i></p>
+<p align="center">— Prajeesh Chavan 🚀</p>
