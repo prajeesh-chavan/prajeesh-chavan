@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajeeshchavan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:prajeeshc03@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square" /></a>
+  <a href="mailto:prajeeshchavan@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square" /></a>
   <a href="https://twitter.com/prajeesh_c"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=flat-square" /></a>
 </p>
 
