@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Prajeesh+Chavan!;Full+Stack+Developer+🚀;Tech+Enthusiast+💡;CSE+Student+📚&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Prajeesh+Chavan!;Data+Engineer+🚀;Tech+Enthusiast+💡;CSE+Graduate+📚&center=true&width=500&height=50">
 </p>
 
 <p align="center">
