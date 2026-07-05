@@ -56,7 +56,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajeesh-chavan&show_icons=true&theme=tokyonight&count_private=true" alt="Prajeesh's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=prajeesh-chavan&show_icons=true&theme=tokyonight&count_private=true" alt="Prajeesh's GitHub Stats" />
 </p>
 
 ---
